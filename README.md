@@ -2,6 +2,7 @@ Codecov Java Example
 ====================
 [![codecov.io](https://codecov.io/github/furknyavuz/example-java/coverage.svg?branch=master)](https://codecov.io/github/furknyavuz/example-java?branch=master)
 
+
 ## Usage
 ## Comment
 
