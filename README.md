@@ -1,5 +1,6 @@
 Codecov Java Example
 ====================
+[![Build Status](https://travis-ci.org/furknyavuz/example-java.svg?branch=master)](https://travis-ci.org/furknyavuz/example-java)
 [![codecov.io](https://codecov.io/github/furknyavuz/example-java/coverage.svg?branch=master)](https://codecov.io/github/furknyavuz/example-java?branch=master)
 
 
